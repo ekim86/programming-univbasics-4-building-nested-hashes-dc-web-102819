@@ -9,9 +9,7 @@ def monopoly_with_second_tier
   # complexity.
   {
     "nice" => "neat",
-    :railroads => {
-      "train" => "tracks"
-    }
+    :railroads => {}
   }
 end
 
