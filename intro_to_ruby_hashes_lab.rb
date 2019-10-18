@@ -1,6 +1,5 @@
 def base_hash
 	{
-	  "nice" => "neat",
 	  :railroads => {}
 	}
 end
